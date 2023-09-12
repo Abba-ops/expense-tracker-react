@@ -1,6 +1,6 @@
 # Expense Tracker
 
-![Expense Tracker Screenshot](https://i.ibb.co/8zF57hC/Screenshot-19.png)
+![Expense Tracker Screenshot](https://i.ibb.co/c837wy2/Screenshot-36.png)
 
 ## Introduction
 
