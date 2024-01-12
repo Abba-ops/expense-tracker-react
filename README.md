@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the React Expense Tracker repository! This beginner-friendly project is crafted to guide you through mastering the Context API for state management while efficiently managing your expenses and income. Enhance your React skills with this practical application.
+This React Expense Tracker is a beginner-friendly project that teaches the Context API for state management, aiding in tracking expenses and income while enhancing React skills.
 
 ## Getting Started
 
